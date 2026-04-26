@@ -1,0 +1,5 @@
+{
+  "baseURL": "https://www.restaurantware.com/",
+  "headless": true,
+  "env": "QA"
+}
